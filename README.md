@@ -18,4 +18,6 @@ Step 3:  Using Foursquare API to get the top 200 venue data within radius of 100
 Step 4:  Using k-means clustering algorithm to categorize into 2 clusters based on the frequency of occurrence of restaurants 
 
 ### Conclusion:
-Presenting the recommendations to relevant stakeholders regarding the best location to open a restaurant.
+Presenting the recommendations to relevant stakeholders regarding the best location(Clason Point neighborhood of Bronx and a few neighborhoods of Staten Island have either have no restaurants or a very few restaurants at all)  to open a restaurant.
+ 
+ 
